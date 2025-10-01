@@ -1,19 +1,19 @@
-#這是註解測試
-print('Python test.測試')
-print("Eric Test")
-print("身高 170cm")
+# 這是註解測試
+# print('Python test.測試')
+# print("Eric Test")
+# print("身高 170cm")
 
-#基本資料型態
+# 基本資料型態
 
-#字串
-name = "妮妮"+'Cat'
+# 字串
+name = "妮妮"+'Cat\n'
 print(name)
 
-#數字
+# 數字
 a = -70.001
 print(a)
 
-#布林值
+# 布林值
 is_cat = True
 is_bad = False
 
